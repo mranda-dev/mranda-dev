@@ -1,7 +1,12 @@
-### Olá! Eu sou o Matheus Miranda 😉
+## Hello! I'm Matheus Miranda 😉
 
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://edevops.com.br)
+#### A professional passionate about web design and web development, I combine creativity and technical expertise to create engaging digital experiences.
+
+#### With solid skills in interface design and programming, I always strive for excellence in designing innovative layouts and implementing efficient codes.
+
+#### Throughout my career, I have collaborated on diverse projects, prioritizing usability and accessibility. I stay up to date with the latest trends and technologies, committed to offering digital solutions that transcend expectations. Whether in visual design or programming, my goal is to transform ideas into memorable web experiences.
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mranda_dev/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mranda-dev/)
@@ -9,9 +14,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 
-![Miranda GitHub stats](https://github-readme-stats.vercel.app/api?username=mranda-dev&show_icons=true&theme=radical)
-
-### My Skills
+# My Skills
 
 <div style="display; inline_block"><br/>
     <img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,4 +29,28 @@
     <img align="center" alt=mysql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </div><br/>
 
-Profissional apaixonado por web design e desenvolvimento web, combino criatividade e expertise técnica para criar experiências digitais envolventes.
+
+## Statistics 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mranda-dev&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mranda-dev&repo=mranda-dev&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mranda-dev&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mranda-dev&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
+
+
+
+<p align="center">
+ <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
+</p>
