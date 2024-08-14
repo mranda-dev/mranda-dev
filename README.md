@@ -48,9 +48,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mranda-dev&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
-
-
-
-<p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
-</p>
